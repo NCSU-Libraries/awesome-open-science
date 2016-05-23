@@ -1,6 +1,4 @@
-# Contribution Guidelines for Awesome IIIF
-
-Please note that this project is released with a contributor code of conduct which will always track the IIIF community code of conduct. Currently this code would be the [IIIF Event Code of Conduct](http://iiif.io/event/conduct/). By participating in this project you agree to abide by its terms.
+# Contribution Guidelines for Awesome Open Science
 
 ## Adding to this list
 
