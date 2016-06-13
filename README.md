@@ -2,6 +2,8 @@
 A list of lists of awesome Open Science resources
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Contributing Guidelines](http://img.shields.io/badge/CONTRIBUTING-Guidelines-blue.svg)](./contributing.md)
+
 
 ## Background Reading
 * [Opening Science] (http://book.openingscience.org/)
