@@ -21,6 +21,8 @@ A list of lists of awesome Open Science resources
 
 * [Why Open Research?] (http://whyopenresearch.org/)
 
+* [Open Science Training Handbook](https://book.fosteropenscience.eu/en/) by Foster Open Science
+
 ## Terminology
 * [Definitions of Terms used in Open Science and Open Access: Introductory] (https://www.fosteropenscience.eu/content/definitions-terms-used-open-science-and-open-access-introductory)
 
