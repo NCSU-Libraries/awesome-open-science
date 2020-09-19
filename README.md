@@ -1,4 +1,5 @@
 # Awesome Open Science
+
 A list of lists of awesome Open Science resources
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -6,55 +7,59 @@ A list of lists of awesome Open Science resources
 
 
 ## Background Reading
-* [Opening Science] (http://book.openingscience.org/)
 
-* [Open Science: Sharing Knowledge in the Global Century] (http://www.worldcat.org/oclc/464210677)
+* [Opening Science](http://book.openingscience.org/)
 
-* [What Exactly Is Open Science?] (http://www.openscience.org/blog/?p=269)
+* [Open Science: Sharing Knowledge in the Global Century](http://www.worldcat.org/oclc/464210677)
 
-* [UKeiG White Paper: Open Science Open Data Open Access] (http://www.cilip.org.uk/uk-einformation-group/other-publications/ukeig-open-access-white-papers/ukeig-201501-open-science-open-data-open-access)
+* [What Exactly Is Open Science?](http://www.openscience.org/blog/?p=269)
 
-* [Increasing Access to the Results of Federally Funded Scientific Research (Office of Science and Technology)]
-(https://www.whitehouse.gov/sites/default/files/microsites/ostp/ostp_public_access_memo_2013.pdf)
+* [UKeiG White Paper: Open Science Open Data Open Access](http://www.cilip.org.uk/uk-einformation-group/other-publications/ukeig-open-access-white-papers/ukeig-201501-open-science-open-data-open-access)
 
-* [Making Open Science a Reality (OECD)] (http://www.oecd-ilibrary.org/docserver/download/5jrs2f963zs1.pdf?expires=1462293291&id=id&accname=guest&checksum=BB036B66B146626FA3FCF29C3D95A029)
+* [Increasing Access to the Results of Federally Funded Scientific Research (Office of Science and Technology)](https://www.whitehouse.gov/sites/default/files/microsites/ostp/ostp_public_access_memo_2013.pdf)
 
-* [Why Open Research?] (http://whyopenresearch.org/)
+* [Making Open Science a Reality (OECD)](http://www.oecd-ilibrary.org/docserver/download/5jrs2f963zs1.pdf?expires=1462293291&id=id&accname=guest&checksum=BB036B66B146626FA3FCF29C3D95A029)
+
+* [Why Open Research?](http://whyopenresearch.org/)
+
+* [Open Science Training Handbook](https://book.fosteropenscience.eu/en/) by Foster Open Science
 
 ## Terminology
-* [Definitions of Terms used in Open Science and Open Access: Introductory] (https://www.fosteropenscience.eu/content/definitions-terms-used-open-science-and-open-access-introductory)
 
-* [Open Research Glossary] (http://www.righttoresearch.org/resources/OpenResearchGlossary/)
+* [Definitions of Terms used in Open Science and Open Access: Introductory](https://www.fosteropenscience.eu/content/definitions-terms-used-open-science-and-open-access-introductory)
+
+* [Open Research Glossary](http://www.righttoresearch.org/resources/OpenResearchGlossary/)
 
 ## Organizations
-* [The Royal Society Open Science] (http://rsos.royalsocietypublishing.org/)
 
-* [Center for Open Science] (https://cos.io/)
+* [The Royal Society Open Science](http://rsos.royalsocietypublishing.org/)
 
-* [Open Science Federation] (http://opensciencefederation.com/)
+* [Center for Open Science](https://cos.io/)
 
-* [Mozilla Science Lab] (https://www.mozillascience.org/)
+* [Open Science Federation](http://opensciencefederation.com/)
 
-* [Shuttleworth Foundation] (https://shuttleworthfoundation.org/)
+* [Mozilla Science Lab](https://www.mozillascience.org/)
 
-* [Software Sustainability Institute] (http://www.software.ac.uk/)
+* [Shuttleworth Foundation](https://shuttleworthfoundation.org/)
 
-* [OKF Open Science Working Group] (http://science.okfn.org/)
+* [Software Sustainability Institute](http://www.software.ac.uk/)
+
+* [OKF Open Science Working Group](http://science.okfn.org/)
 
 ## Famous Examples of Open Science
-* [Human Genome Project] (https://www.genome.gov/10001772/all-about-the--human-genome-project-hgp/)
+* [Human Genome Project](https://www.genome.gov/10001772/all-about-the--human-genome-project-hgp/)
 
-* [The Polymath Project] (https://polymathprojects.org/)
+* [The Polymath Project](https://polymathprojects.org/)
 
-* [arXiv] (https://arxiv.org/)
+* [arXiv](https://arxiv.org/)
 
-* [Open Science Grid] (http://www.opensciencegrid.org/)
+* [Open Science Grid](http://www.opensciencegrid.org/)
 
-* [Open Worm] (http://www.openworm.org/)
+* [Open Worm](http://www.openworm.org/)
 
-* [SETI] (http://setiathome.ssl.berkeley.edu/)
+* [SETI](http://setiathome.ssl.berkeley.edu/)
 
-* [CERN] (http://opendata.cern.ch/?ln=en)
+* [CERN](http://opendata.cern.ch/?ln=en)
 
 
 ## License
